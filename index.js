@@ -1,0 +1,1 @@
+console.log('I ma learining CI/CD using github actions')
